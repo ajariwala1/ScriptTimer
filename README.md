@@ -14,6 +14,7 @@ This is a skeleton project that includes all assets you need to build the applic
 
 Clone the project and see the lecture video on Canvas under Module 4 for instructions. <br/>
 See the completed ScriptTimer application here: <br/>
+https://github.com/ajariwala1/ScriptTimer_Completed
 
 ## What you will learn
 
